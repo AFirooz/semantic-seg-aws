@@ -1,3 +1,6 @@
 *.tar.gz
+
 data/**/*
+train*/
+validation*/
 .ipynb_checkpoints/
